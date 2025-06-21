@@ -8,5 +8,5 @@ In ogni cartella troverai sempre un file `README.md` come questo, dove saranno s
 
 Buon apprendimento!
 
->[!note] Nota
+>[!note]
 >Come sempre, per qualsiasi commento/segnalazione puoi scrivermi a nannuccibooks@gmail.com
