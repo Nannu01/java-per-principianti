@@ -1,2 +1,2 @@
-# java-per-principianti
+# Java per principianti
 Repository con esempi e codici aggiuntivi per il libro "Java per principianti"
